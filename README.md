@@ -1,6 +1,6 @@
 # Introduction
 Small and simple NodeJS project to display a list of products (laptops). 
-Main goal was the understanding of how routing and NodeJS web servers work.
+Main goal was the understanding of how routing and NodeJS web servers work. Made from a Udemy course.
 
 # Functionaly
 - Button to go to another page to view a given laptop
